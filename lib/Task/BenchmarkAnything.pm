@@ -15,4 +15,10 @@ package Task::BenchmarkAnything;
 
 =pkg BenchmarkAnything::Storage::Backend::SQL
 
+=pkgroup dbdrivers
+
+=pkg DBD::mysql
+
+=pkg DBD::SQLite
+
 1;
