@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - +DBD::mysql, +DBD::SQLite
 
 0.001     2015-09-22
         - initial version
