@@ -21,4 +21,8 @@ package Task::BenchmarkAnything;
 
 =pkg DBD::SQLite
 
+=pkgroup application support
+
+=pkg IO::Socket::SSL
+
 1;
