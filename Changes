@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.003     2016-04-23
         - +IO::Socket::SSL (for HTTPS servers)
         - force newer BenchmarkAnything modules
 
